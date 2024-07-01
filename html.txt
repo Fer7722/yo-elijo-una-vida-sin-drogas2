@@ -1,0 +1,293 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yo elijo una vida sin drogas y tú</title>
+    <style type="text/css">
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        #header {
+            margin: auto;
+            width: 500px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        ul, ol {
+            list-style-type: none;
+        }
+
+        .nav li a {
+            background-color: black;
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            display: block;
+        }
+
+        .nav li a:hover {
+            background-color: greenyellow;
+        }
+
+        .nav > li {
+            float: left;
+        }
+
+        .nav li ul {
+            display: none;
+            position: absolute;
+            min-width: 140px;
+        }
+
+        .nav li:hover > ul {
+            display: block;
+        }
+
+        .nav li ul li {
+            position: relative;
+        }
+
+        .nav li ul li ul {
+            right: -140px;
+            top: 0px;
+        }
+
+        .table-container {
+            width: 80%;
+            max-width: 600px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 18px;
+            text-align: left;
+            box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            cursor: pointer;
+            background-color: #f2f2f2;
+        }
+
+        th:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <marquee bgcolor="#006699" behavior="alternate" direction="right">
+        <b><font color="#FFFFCC" size="7">Yo elijo una vida sin drogas y tú</font></b>
+    </marquee>
+    <div id="header">
+        <ul class="nav">
+            <li><a href="https://www.who.int/news-room/fact-sheets/detail/substance-abuse">Prevención</a></li>
+            <li><a href="https://www.cdc.gov/drugoverdose/prevention/index.html">Información</a></li>
+            <li><a href="https://www.samhsa.gov/prevention">Recursos</a></li>
+        </ul>
+    </div>
+    <br>
+    <br>
+    <br>
+    <h1><font color="blue">Yo elijo una vida sin drogas y tú</font></h1>
+    <br>
+    <h2><font color="green">Introducción</font></h2>
+    <p><strong>En esta campaña, promovemos:</strong></p>
+    La prevención de las drogas es crucial para mantener una vida saludable y segura. Esta campaña está diseñada para educar a los jóvenes sobre los peligros del uso de drogas y cómo pueden elegir un camino positivo y libre de sustancias. A través de actividades educativas, apoyo comunitario y recursos accesibles, buscamos empoderar a los estudiantes para que tomen decisiones informadas y saludables.
+    <br>
+    <br>
+    <p align="center"><img src=https://muysalud.com/wp-content/uploads/2021/05/muchas-drogas-ilegales.jpg alt="Prevención de drogas" width="350px" height="350px"></p>
+    <br>
+    <br>
+    <h2><font color="red">Objetivos de la campaña</font></h2>
+    <ul```html
+        <li>Educar a los jóvenes sobre los efectos negativos de las drogas.</li>
+        <br>
+        <li>Promover actividades saludables y alternativas al uso de drogas.</li>
+        <br>
+        <li>Fortalecer el apoyo comunitario y familiar en la prevención del uso de drogas.</li>
+        <br>
+        <li>Proveer recursos y ayuda a quienes lo necesiten.</li>
+        <br>
+        <li>Crear un entorno seguro y libre de drogas para todos los estudiantes.</li>
+    </ul>
+    <br>
+    <h2><u>Actividades de la campaña</u></h2>
+    <p>La campaña "Yo elijo una vida sin drogas y tú" incluye diversas actividades diseñadas para educar y motivar a los estudiantes:</p>
+    <ul>
+        <li><strong>Talleres educativos:</strong> Sesiones interactivas que informan sobre los peligros de las drogas y cómo resistir la presión de grupo.</li>
+        <br>
+        <li><strong>Eventos deportivos:</strong> Promoción de un estilo de vida activo y saludable a través de torneos y actividades físicas.</li>
+        <br>
+        <li><strong>Charlas motivacionales:</strong> Presentaciones de exadictos y profesionales que comparten sus historias y ofrecen consejos prácticos.</li>
+        <br>
+        <li><strong>Programas de mentoría:</strong> Conexión de estudiantes con mentores que les ayudan a desarrollar habilidades y alcanzar sus metas.</li>
+        <br>
+        <li><strong>Campañas en redes sociales:</strong> Uso de plataformas digitales para difundir mensajes positivos y recursos de prevención.</li>
+    </ul>
+    <br>
+    <p align="center"><img src=https://nopasanada.com.mx/wp-content/uploads/2020/08/GettyImages-588315938-scaled.jpg alt="Actividades de prevención" width="350px" height="350px"></p>
+    <br>
+    <title>TABLA COMPARATIVA SOBRE LOS TIPOS DE DROGAS.</title>
+    <p></p><h2>TABLA COMPARATIVA SOBRE LOS TIPOS DE DROGAS.</h2><p></p>
+    <br>
+    <p>En la tabla presentada se muestran diferentes tipos de drogas, junto con sus efectos, riesgos asociados, usos comunes, y su legalidad en distintos lugares.</p>
+    <br>
+    <table id="Table" border="1">
+        <tbody><tr>
+            <th>TIPOS DE DROGAS</th>
+            <th>EFECTOS</th>
+            <th>RIESGOS</th>
+            <th>USO MEDICINAL</th>
+            <th>LEGALIDAD</th>
+        </tr>
+        <tr>
+            <td>Marihuana</td>
+            <td>Euforia, relajación y energía</td>
+            <td>Daño pulmonar y perdida del apetito</td>
+            <td>Analgesico medicinal</td>
+            <td>Legal en algunos lugares con control medicinal</td> 
+ 
+         </tr>
+         <tr>
+            <td>Cocaína</td>
+            <td>Euforia, aumento de energía</td>
+            <td>Cambio del animo, problemas cardíacos</td>
+            <td>Controlante medicinal</td>
+            <td>legal en la mayoría de los países</td>
+ 
+         </tr>
+         <tr>
+            <td>Anfetaminas</td>
+            <td>Mayor relajación, energía</td>
+            <td>ansiedad y insomnio</td>
+            <td>mejora del rendimiento</td>
+            <td>Bajo Control medicinal</td>
+ 
+         </tr>
+         <tr>
+            <td>Heroína</td>
+            <td>Euforia, analgesia</td>
+            <td>Sobredosis, imperatividad y cambio del animo</td>
+            <td>analgésico  medicinal</td>
+            <td>Ilegal en la mayoría de los países</td>
+ 
+         </tr>
+       </tbody></table>
+   <br>
+    <h2><font color="red">Importancia de la prevención</font></h2>
+    <p>La prevención del uso de drogas es fundamental para garantizar el bienestar físico, mental y emocional de los jóvenes. Al proporcionar información precisa y apoyo adecuado, podemos ayudar a los estudiantes a tomar decisiones que les beneficien a largo plazo. Además, la prevención fortalece la comunidad escolar y crea un entorno positivo donde todos pueden prosperar.</p>
+    <br>
+    <p align="center"><img src=https://cotser.org.ar/wp-content/uploads/2023/05/Afiche2.jpg alt="Importancia de la prevención" width="350px" height="350px"></p>
+    <br>
+    <h2><font color="red">Recursos y apoyo</font></h2>
+    <p>Para aquellos que necesitan ayuda o más información sobre cómo prevenir el uso de drogas, ofrecemos los siguientes recursos:</p>
+    <ol>
+        <li><a href="https://www.samhsa.gov/find-help/national-helpline">Línea Nacional de Ayuda</a>: Apoyo confidencial y gratuito las 24 horas, los 7 días de la semana.</li>
+        <br>
+        <li><a href="https://www.cdc.gov/drugoverdose/prevention/index.html">CDC: Prevención del uso de drogas</a>: Información y recursos sobre la prevención de sobredosis.</li>
+        <br>
+        <li><a href="https://www.drugabuse.gov/related-topics/treatment">NIDA: Tratamiento y prevención</a>: Recursos sobre el tratamiento y la prevención del abuso de sustancias.</li>
+        <br>
+        <li><a href="https://teen.smokefree.gov/quit-vaping">SmokeFree Teen</a>: Ayuda para dejar de fumar y vapear.</li>
+        <br>
+        <li><a href="https://www.youth.gov/youth-topics/substance-abuse">Youth.gov</a>: Información sobre abuso de sustancias y prevención para jóvenes.</li>
+    </ol>
+    <br>
+    <p align="center"><img src=https://t4.ftcdn.net/jpg/02/09/22/75/360_F_209227568_cgyrW6KnoTvEIlvg6No6btYrI5EEY1E0.jpg alt="Recursos y apoyo" width="350px" height="350px"></p>
+    <br>
+     <h2><font color="green">PROGRAMA AULA,ESCUELA Y COMUNIDAD: YO ELIJO UNA VIDA SIN DROGAS ¿Y TU?</font></h2>
+    <br>
+    <p><strong>"Presentar proyectos sobre drogas desde las perspectivas de psicología, sociología, biología y ética nos brinda una visión integral y multidisciplinaria de esta problemática. A través de estos enfoques, podemos analizar los factores individuales, sociales, fisiológicos y éticos relacionados con el consumo de drogas, así como desarrollar estrategias efectivas para abordar este tema tan relevante en la sociedad actual."Al abordar la problemática de las drogasnos sumergimos en un análisis profundo y completo que nos permite comprender la complejidad de este fenómeno en nuestra sociedad contemporánea. Desde la psicología, exploramos los aspectos individuales que pueden influir en el consumo de drogas, como factores emocionales, cognitivos y conductuales, así como las estrategias de prevención y tratamiento basadas en el estudio de la mente humana.
+
+Por otro lado, la sociología nos invita a examinar el impacto de las drogas en los diferentes estratos sociales, las dinámicas de poder que influyen en su distribución y consumo, así como las políticas públicas que buscan regular este mercado y proteger a los grupos más vulnerables. Desde la biología, nos sumergimos en el estudio de los efectos fisiológicos de las drogas en el organismo humano, comprendiendo cómo actúan a nivel molecular y su repercusión en la salud a corto y largo plazo.
+
+Y finalmente, desde la ética, nos adentramos en una reflexión profunda sobre los valores y principios morales que entran en juego en torno al uso y abuso de sustancias psicoactivas, así como los dilemas éticos que surgen en el diseño e implementación de políticas relacionadas con las drogas. La integración de estos diferentes enfoques disciplinares nos brinda una panorámica amplia y rica que nos permite no solo comprender la complejidad del fenómeno de las drogas, sino también diseñar intervenciones más efectivas y acordes a las necesidades de nuestra sociedad.</p>
+    <br>  
+  <h2><font color="green">"A CONTINUACION PRESENTAREMOS LAS UAC QUE FORMAN PARTE DEL PROGRAMA AULA,ESCUELA Y COMUNIDAD: YO ELIJO UNA VIDA SIN DROGAS ¿Y TU?.</font></h2>
+    <br>
+    <p>UA:CULTURA DIGITAL.</P>
+    <br>
+    <p>DOCENTE:AURORA ELENA TINOCO SANCHEZ.</P>
+    <br>
+    <p>Esta UAC participa en el PROGRAMA AULA,ESCUELA Y COMUNIDAD: YO ELIJO UNA VIDA SIN DROGAS ¿Y TU? ya que es la que engloba todas las UAC que participan en esta campaña de prevención de las drogas, de esta pagina wed.</p> 
+    <br>
+    <p>UAC:LENGUA Y COMUNICACION.</P>
+    <br>
+    <p>DOCENTE:ROSENDA DEL CARMEN MARTINEZ CABALLERO.</p>
+    <br>
+    <P> En este proyecto de Lengua y Comunicación titulado "Elaborar una reseña sobre las Drogas", se sumergirán en un profundo análisis lingüístico y crítico sobre este tema tan relevante en nuestra sociedad. A través de la escritura de una reseña, tendrás la oportunidad de explorar y reflexionar sobre los diferentes aspectos relacionados con las drogas, como su impacto en la salud pública, las implicaciones sociales y culturales, los desafíos de la prevención y la importancia del diálogo abierto en torno a este tema. Esta reseña no solo será un ejercicio de comunicación efectiva, sino también una plataforma para expresar tus ideas, argumentar tus puntos de vista y fomentar la conciencia crítica en nuestros lectores. Este proyecto te invita a utilizar el poder del lenguaje para analizar y sensibilizar sobre un tema de gran relevancia en nuestra sociedad actual. ¡Será una oportunidad para desarrollar tus habilidades comunicativas y contribuir al debate público de manera informada y constructiva.! A continuación se les presenta el proyecto de esta UAC.</p>
+   <br> 
+   <a href=https://drive.google.com/file/d/1hS-cOLz-QVU0bAJkm4jNu3tO60Jfg3Nj/view?usp=drivesdk>DRIVE GOOGLE</a>RESEÑA SOBRE LAS DROGAS.</li>
+   <br>
+   <br>
+   <p>UAC:HUMANIDADES.</P>
+   <br>
+   <p>DOCENTE:LUZ ADRIANA RAMIREZ RAMIREZ.</P>
+   <br>
+   <p> En este proyecto de Humanidades titulado "10 propuestas para emanciparte o liberarte del mundo de las drogas" vamos a explorar diversas estrategias y acciones concretas que pueden ayudar a las personas a liberarse del mundo de las drogas. Veremos información educativa sobre los efectos nocivos de las drogas, consejos para prevenir su consumo, testimonios inspiradores de personas que han superado adicciones, recursos disponibles para buscar ayuda, alternativas saludables y actividades de bienestar que promuevan un estilo de vida libre de sustancias.  A continuación se les presenta el proyecto de esta UAC.</p>
+   <br>
+   <a href=https://drive.google.com/file/d/1eqKtuDon-NpugloQfnWGzLmT6bzAniyL/view?usp=drivesdk>DRIVE GOOGLE</a>HOJA DE PRESENTACION DEL PROYECTO.</li>
+   <br>
+   <a href=https://drive.google.com/file/d/1ewxeTgXZlQL2nCC16xEtsGLuWNOghRus/view?usp=drivesdk>DRIVE GOOGLE</a>10 PROPUESTAS PARA EMANCIPARTE O LIBERARTE DEL MUNDO DE LAS DROGAS.</li>
+   <br>
+   <br>
+   <p>UAC:CONSERVACION DE LA ENERGIA Y SUS INTERACCIONES CON LA MATERIA.</p>
+   <br>
+   <p>DOCENTE:MARIA ANTONIA ENRIQUEZ LUCIO.</p>
+   <br>
+   <p> En nuestro proyecto de Conservación de la energía y sus interacciones, titulado "Gráficos de la actividad energética cerebral cuando hay consumo de drogas", nos sumergiremos en un fascinante estudio sobre cómo las drogas afectan la actividad cerebral desde una perspectiva energética. Exploraremos gráficos detallados que muestran los cambios en el cerebro cuando se consume drogas, analizaremos cómo se ven alterados los procesos cognitivos y emocionales, y reflexionaremos sobre la importancia de conservar y canalizar adecuadamente nuestra energía cerebral para mantener la salud mental y emocional. Este proyecto nos invita a comprender mejor los impactos de las drogas en nuestro órgano más vital, el cerebro, y a reflexionar sobre la importancia de cuidar nuestra energía para una vida plena y equilibrada.  A continuación se les presenta el proyecto de esta UAC.</p>
+   <br>
+   <a href=https://drive.google.com/file/d/1f7MBoa_2nzo0d3GdcSUC4nPHZ6dQvqfc/view?usp=drivesdk>DRIVE GOOGLE</a>HOJA DE PRESENTACION DEL PROYECTO.</li>
+   <br>
+   <a href=https://drive.google.com/file/d/1fCsK7CV3erexkQDFKccEHwVuVq0at-yh/view?usp=drivesdk>DRIVE GOOGLE</a>GRAFICOS DE LA ACTIVIDAD ENERGETICA CEREBRAL CUANDO HAY CONSUMO DE DROGAS.</li>
+   <br>
+   <br>
+   <p>UAC:CIENCIAS SOCIALES.</p>
+   <br>
+   <p>DOCENTE:GLORIA BAUTISTA RAMOS.</P>
+   <br>
+   <p> En tu proyecto de Ciencias Sociales titulado "cuestionario sobre las adicciones a las drogas", nos adentraremos en un profundo análisis de este tema tan relevante y complejo en nuestra sociedad. A través de una serie de preguntas cuidadosamente diseñadas, exploraremos diferentes aspectos relacionados con las drogas, como su impacto en la salud individual y colectiva, las implicaciones legales y sociales de su uso, los factores que llevan a su consumo, las estrategias de prevención y tratamiento, y las perspectivas de diferentes actores involucrados en este fenómeno. Este proyecto nos invita a reflexionar, cuestionar y comprender mejor la complejidad que rodea al tema de las drogas desde una mirada interdisciplinaria, promoviendo el diálogo, la conciencia crítica y la búsqueda de soluciones efectivas para abordar este desafío en nuestra sociedad.  A continuación se les presenta el proyecto de esta UAC.</p>
+   <br>
+   <a href=https://drive.google.com/file/d/1ezSESazeH9iPJS7W1l99SZPNWzbrAVPm/view?usp=drivesdk>DRIVE GOOGLE</a>HOJA DE PRESENTACION DEL PROYECTO.</li>
+   <br>
+   <a href=https://drive.google.com/file/d/1f1Litb63v7MYOSlEx6NbOlKBESSuMsnz/view?usp=drivesdk>DRIVE GOOGLE</a>CUESTIONARIO SOBRE LAS ADICCIONES A LAS DROGAS.</li>
+   <br>
+   <br>
+   <p>UAC:INGLES.</p>
+   <br>
+   <p>DOCENTE:MARISOL MAJIN MARTINEZ.</p>
+   <br>
+   <p>In our English project titled "Create a comic about Writing 10 sentences of your plans for a life free of drug use and abuse. Using the idiomatic future and the simple future", we will dive into a creative and reflective exploration of your aspirations and goals to build a future free of drug use and abuse. Through a comic, you will visually and dynamically capture ten sentences that describe your plans and dreams for a healthy life free of harmful substances. Using the idiomatic future and the simple future, you will bring your goals to life, showing how you envision yourself making healthy choices, cultivating positive relationships, and achieving your goals without falling into the traps of drugs. This project will not only boost your English language skills, but will also invite you to reflect on the importance of taking care of your well-being and building a promising future based on comprehensive health and well-being. Below is the project of this UAC.</p>
+   <br>
+   <p> (Traducción) En nuestro  proyecto de Inglés titulado "Elaborar un cómic sobre Escribir 10 oraciones de tus planes de una vida sin consumo ni abuso de drogas. Usando el futuro idiomático y el futuro simple", nos sumergiremos en una creativa y reflexiva exploración de tus aspiraciones y metas para construir un futuro libre de consumo y abuso de drogas. A través de un cómic, plasmarás de manera visual y dinámica diez oraciones que describen tus planes y sueños para una vida saludable y libre de sustancias dañinas. Utilizando el futuro idiomático y el futuro simple, darás vida a tus objetivos, mostrando cómo te visualizas a ti mismo/a tomando decisiones saludables, cultivando relaciones positivas y alcanzando tus metas sin caer en las trampas de las drogas. Este proyecto no solo potenciará tus habilidades lingüísticas en inglés, sino que también te invitará a reflexionar sobre la importancia de cuidar tu bienestar y construir un futuro prometedor basado en la salud y el bienestar integral. A continuación se les presenta el proyecto de esta UAC.</p> 
+   <br>
+   <a href=https://drive.google.com/file/d/1iIbkl00RGB7mUDZuoeQVdsY3W5arQX3H/view?usp=drivesdk>DRIVE GOOGLE</a>COMIC SOBRE LAS DROGAS.</li>
+   <br> 
+   <br>
+   <p>INTEGRANTES DEL EQUIPO:
+   <p>FERNANDO CORTES VASQUEZ
+   <p>ANGELA ROSAS ROQUE
+   <p>BRAYAN DE JESUS REYES PEREZ
+   <p>JEREMY ROBERTO JUAREZ GONZALEZ
+   <p>DAVID PATRICIO RONQUILLO
+   <p>JOSE ANTONIO LOPEZ CARRION
+   <p>ADRIEL GOMEZ GARCIA</P>
+   <br>
+   <br>
+   <p>"En conclusión, a lo largo de este recorrido por el mundo de las drogas, hemos explorado sus impactos en la sociedad, la importancia de la prevención y la educación, así como las posibles vías para combatir este problema. Recordemos siempre que el conocimiento es nuestra mejor arma contra las adicciones. ¡Juntos podemos construir un futuro más saludable y libre de drogas!"</p>
+   <br>
+   <p>"Ha sido un verdadero placer compartir este espacio con ustedes y profundizar juntos en un tema tan relevante como el de las drogas. ¡Gracias por tu interés y compromiso! Te invito a seguir explorando, aprendiendo y participando activamente en la construcción de una sociedad más informada y consciente. ¡Hasta pronto!"</p>
+   <br>
+   <br>
+</body> 
+</html>
+```
